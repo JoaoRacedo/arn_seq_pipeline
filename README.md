@@ -30,4 +30,4 @@ rho2 = np.array([0.2]) # the value of rho for the second group (or patients)
 b_m = 20    	       # mean value
 ```
 
-The script will print in the terminal the results of the misclassification error for all the combinations of the n and m values.
+The script will print in the terminal the results of the misclassification mean error for all the combinations of the n and m values.
