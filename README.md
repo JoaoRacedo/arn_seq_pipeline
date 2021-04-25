@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This code exemplifies a new approach, applicable to compositional data, for the classification of new samples into two groups with different biological settings. This sample code is fed with the following parameters:  which are the number of samples per dataset, the number of variables, and the off-diagonal elements for the correlation matrices, respectively. Then, the code generates two synthetic datasets and executes the classification algorithm outlined by Racedo et al. (Racedo et al., 2021), calculating the average misclassification rate, MR.
+This code exemplifies a new approach, applicable to compositional data, for the classification of new samples into two groups with different biological settings. This sample code is fed with the following parameters: the number of samples per dataset, the number of variables, and the off-diagonal elements for the correlation matrices. Then, the code generates two synthetic datasets and executes the classification algorithm outlined by Racedo et al. (Racedo et al., 2021), calculating the average misclassification rate, MR.
 
 ## Installation
 Requirements:
